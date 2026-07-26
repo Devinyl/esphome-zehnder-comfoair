@@ -1,6 +1,6 @@
 # Project-specific configuration
 PROJECT := zehnder-comfoair-q
 # Default board
-BOARD := m5stack-atoms3
+BOARD := esp32-evb
 
 include Makefile.common

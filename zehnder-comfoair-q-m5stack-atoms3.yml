@@ -2,6 +2,7 @@ external_components: !include packages/external_components.yml
 
 packages:
   base: !include packages/base.yml
+  wifi: !include packages/wifi.yml
   device_base: !include boards/m5stack-atoms3.yml
 
 dashboard_import:
