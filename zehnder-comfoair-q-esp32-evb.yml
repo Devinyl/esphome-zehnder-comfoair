@@ -6,4 +6,4 @@ packages:
 
 
 dashboard_import:
-  package_import_url: github://yoziru/esphome-zehnder-comfoair/zehnder-comfoair-q-esp32-evb.dashboard.yml
+  package_import_url: github://Devinyl/esphome-zehnder-comfoair/zehnder-comfoair-q-esp32-evb.dashboard.yml
